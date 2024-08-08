@@ -1,3 +1,3 @@
-module github.com/iam-veeramalla/go-web-app
+module go-server
 
-go 1.22.5
+go 1.21.2
